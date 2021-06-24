@@ -1,0 +1,24 @@
+{
+  "name": "com.cybernautica.test",
+  "version": "0.0.2",
+  "displayName": "cybernautica test",
+  "description": "This is an example package",
+  "unity": "2020.3",
+  "unityRelease": "8f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "CYBERNAUTICA",
+    "email": "games@cybernautica.cz",
+    "url": "https://www.cybernautica.cz"
+  }
+}

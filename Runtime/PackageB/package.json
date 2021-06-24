@@ -1,0 +1,13 @@
+{
+	"name": "com.cybernautica.testB",
+	"displayName": "Test B",
+	"version": "1.0.0",
+	"unity": "2020.3",
+	"dependencies": {
+	},
+  	"author": {
+    		"name": "CYBERNAUTICA",
+    		"email": "games@cybernautica.cz",
+    		"url": "https://www.cybernautica.cz"
+  	}
+}
