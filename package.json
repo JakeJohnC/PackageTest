@@ -1,6 +1,6 @@
 {
   "name": "com.cybernautica.test",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "displayName": "cybernautica test",
   "description": "This is an example package",
   "unity": "2020.3",
